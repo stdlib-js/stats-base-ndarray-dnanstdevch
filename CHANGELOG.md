@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-07)
+## Unreleased (2026-03-08)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2255c38`](https://github.com/stdlib-js/stdlib/commit/2255c3899fad73f02d3c5968c8c0a5093b232712) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`fad16aa`](https://github.com/stdlib-js/stdlib/commit/fad16aaaa353d3ee0bcfb8424160c18c8b0aa14a) - **feat:** add `stats/base/ndarray/dnanstdevch` [(#10348)](https://github.com/stdlib-js/stdlib/pull/10348) _(by Pratik, Philipp Burckhardt)_
 
 </details>
