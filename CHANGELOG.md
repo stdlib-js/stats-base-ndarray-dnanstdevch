@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-10)
+## Unreleased (2026-06-05)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`8e32423`](https://github.com/stdlib-js/stdlib/commit/8e32423156316049de0700cfcb4d3da2b173f008) - **refactor:** align TypeScript declarations across stats packages [(#12512)](https://github.com/stdlib-js/stdlib/pull/12512) _(by Philipp Burckhardt)_
 -   [`efb8640`](https://github.com/stdlib-js/stdlib/commit/efb8640d97dfffd8897418dcea2e4df1481ca6fc) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`6a67413`](https://github.com/stdlib-js/stdlib/commit/6a6741319ee00b3a12b4951895f5a6ffc4963cd5) - **chore:** address commit comments for commit `2255c38` [(#10855)](https://github.com/stdlib-js/stdlib/pull/10855) _(by Partha Das)_
 -   [`2255c38`](https://github.com/stdlib-js/stdlib/commit/2255c3899fad73f02d3c5968c8c0a5093b232712) - **chore:** minor clean-up _(by Philipp Burckhardt)_
